@@ -1,6 +1,6 @@
-youtubeId: BDF0Oxdp2pY
+driveId: 1DK4ZTweEMylqfzNqYEzhrfcu7r1riNn9/view?usp=sharing
 
 # Billard
 A billard animation made using Blender
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include googleDrivePlayer.html id=page.driveId %}
